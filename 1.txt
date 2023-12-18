@@ -1,0 +1,11 @@
+try
+    tblledger
+        account
+        balance
+        credit
+        date
+        debit
+        description
+    tblaccount
+        name
+        email
